@@ -1,0 +1,8 @@
+C:\Users\rob\source\repos\_pointer\test\test\x64\Debug\test.vcxproj.AssemblyReference.cache
+C:\Users\rob\source\repos\_pointer\test\test\x64\Debug\test.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\rob\source\repos\_pointer\test\test\x64\Debug\test.MyForm.resources
+C:\Users\rob\source\repos\_pointer\test\test\x64\Debug\test.vcxproj.GenerateResource.cache
+D:\Шото\OOP\test\test\x64\Debug\test.vcxproj.AssemblyReference.cache
+D:\Шото\OOP\test\test\x64\Debug\test.vcxproj.SuggestedBindingRedirects.cache
+D:\Шото\OOP\test\test\x64\Debug\test.MyForm.resources
+D:\Шото\OOP\test\test\x64\Debug\test.vcxproj.GenerateResource.cache
